@@ -1,16 +1,25 @@
-### Hi there 👋
+# Manoj Patil
 
-<!--
-**9147/9147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate software developer with a keen interest in building innovative solutions. My expertise lies in web development, particularly in creating robust and user-friendly applications. I thrive in collaborative environments and enjoy working on projects that have a meaningful impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** JavaScript, Python, HTML, CSS, Java, C++
+- **Frameworks:** Django, JQuery
+- **Database:** MySQL
+- **Tools:** Git, VS Code, Pycharm, IntelliJ
+
+=
+
+## Education
+
+- **Bachelor of Engineering in Information Science**
+  Kls Gogte Institute of Technology, 2025
+
+## Contact
+
+- **Email:** manojpatil9147@gamil.com
+- **LinkedIn:** [Manoj Patil](https://www.linkedin.com/in/mpaantoijl)
+- **GitHub:** [manojpatil](https://github.com/9147)
