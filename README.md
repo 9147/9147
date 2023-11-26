@@ -10,7 +10,6 @@ I am a passionate software developer with a keen interest in building innovative
 - **Database:** MySQL
 - **Tools:** Git, VS Code, Pycharm, IntelliJ
 
-=
 
 ## Education
 
